@@ -1,0 +1,34 @@
+[
+    {
+        "description": "Entertainment",
+        "transactionTypeDescriptor": "Expense"
+    },
+    {
+        "description": "Financial",
+        "transactionTypeDescriptor": "Expense"
+    },
+    {
+        "description": "Food & Drinks",
+        "transactionTypeDescriptor": "Expense"
+    },
+    {
+        "description": "Health",
+        "transactionTypeDescriptor": "Expense"
+    },
+    {
+        "description": "Home",
+        "transactionTypeDescriptor": "Expense"
+    },
+    {
+        "description": "Miscellaneous",
+        "transactionTypeDescriptor": "Expense"
+    },
+    {
+        "description": "Services",
+        "transactionTypeDescriptor": "Expense"
+    },
+    {
+        "description": "Transportation",
+        "transactionTypeDescriptor": "Expense"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "api": {
+        "port": "6261"
+    },
+    "persistence": {
+        "mongo": {
+            "databaseName": "expenses",
+            "password": "z3sU3iOlH2xGh9gB",
+            "user": "sysadmin"
+        }
+    }
+}
